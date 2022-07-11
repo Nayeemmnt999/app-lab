@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     
-    background-color: fdfdfe;
+    background-color: #fdfdfe;
 }
 .banner-first{
     background-image: url(images/Phone.png);
@@ -78,11 +78,11 @@ div img{
 .fiture-paragraph{
     color: grey;
 }
-#fiture-h1-color{
+.fiture-h1-color1{
     color: #2563ff;
 }
-#fiture-h1-color2{
-    color: 40975f;
+.fiture-h1-color2{
+    color: #40975f;
 }
 .fiture-main{
 
@@ -91,10 +91,70 @@ div img{
     background-image: url(images/Group\ 90.png);
     background-repeat: no-repeat;
     background-size: contain;
+    margin-bottom: 100px;
     
     
     
 }
 .fiture-align{
     margin-left: 900px;
+}
+.content-one{
+    margin-bottom: 150px;
+    
+}
+.content-h1{
+    color: #242f51;
+    font-weight: 900;
+    font-size: 50px;
+    padding-right: 80px;
+    border-right:3px solid gray ;
+    line-height: 100%;
+}
+.contant-paragraph{
+    color: gray;
+    font-size: 20px;
+    
+
+}
+#contant-paragraph{
+    padding-left: 80px;
+    margin-top: 70px;
+}
+.contant-one-header{
+    display: flex;
+    margin-left: 250px;
+    margin-bottom: 110px;
+}
+.contant-one-img{
+    margin: 0px;
+    padding: 0px;
+}
+.contant-one-main{
+    display: flex;
+    margin-left: 250px;
+}
+.contant-one-child{
+    margin-left: 200px;
+}
+.contant-two{
+    display: flex;
+    margin-bottom: 150px;
+
+}
+.contant-two img{
+    margin-left: 200px;
+}
+.content-two-h1{
+    color: #242f51;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 100%;
+    margin-top: 110px;
+}
+.contant-two-dis{
+    margin-left: 150px;
+}
+#contant-two-paragaph{
+    margin-bottom: 60px;
 }
