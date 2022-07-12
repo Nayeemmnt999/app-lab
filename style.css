@@ -149,3 +149,34 @@ div img{
 #contant-two-paragaph{
     margin-bottom: 60px;
 }
+.contant-three-h1{
+    color: #242f51;
+    font-weight: 900;
+    font-size: 35px;
+    padding-right: 80px;
+    line-height: 100%;
+    text-align: center;
+}
+#contant-three-p{
+    text-align: center;
+}
+.contant-three-row{
+    margin-bottom: 150px;
+}
+.contant-three-parent{
+    display: flex;
+    margin-left: 380px;
+}
+#contant-three-parent{
+    margin-bottom: 50px;
+}
+.contant-three-child{
+    text-align: center;
+    margin-left: 66px;
+}
+.contant-three-child-img{
+    margin-left: 10px;
+}
+.ontant-three-child-h1{
+   color: #242f51; ;
+}
