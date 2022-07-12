@@ -180,3 +180,50 @@ div img{
 .ontant-three-child-h1{
    color: #242f51; ;
 }
+.contant-three{
+    margin-bottom: 150px;
+}
+.four-contant-img{
+    margin-left: 0px;
+}
+.contant-four-doc{
+    margin: 0px 0px 50px 250px;
+}
+.four-contan-h1{
+    color: #242f51;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 100%;
+    
+
+}
+.flex{
+    display: flex;
+    margin-left: 170px;
+    margin-bottom: 40px;
+}
+.flex-item{
+    margin-left: 80px;
+}
+.four-main-div{
+    display: flex;
+}
+#contant-four-buttom{
+    margin-left: 255px;
+}
+#sub1{
+    position: relative;
+    
+}
+#sub2{
+    position: relative;
+    top: -700px;
+    padding-left: 250px;
+    
+    
+}
+.contant-paragraph2{
+    color: gray;
+    font-size: 15px;
+    line-height: 15px;
+}
